@@ -116,7 +116,7 @@ results = model(frame, conf=0.6, iou=0.45, classes=[0])
 
 | | | |
 |:---:|:---:|:---:|
-| ![Anatomy](Anatomy.png) | ![Anatomy2](Anatomy2.png) | ![Anatomy3](Anatomy3.png) |
+| ![Anatomy](AnatomyPng/Anatomy.png) | ![Anatomy2](AnatomyPng/Anatomy2.png) | ![Anatomy3](AnatomyPng/Anatomy3.png) |
 | *Общая архитектура* | *Потоки данных* | *Компоненты детекции* |
 
 ---
@@ -125,22 +125,22 @@ results = model(frame, conf=0.6, iou=0.45, classes=[0])
 
 | | |
 |:---:|:---:|
-| ![Slide 1](Presentation_1.png) | ![Slide 2](Presentation_2.png) |
+| ![Slide 1](AnatomyPng/Presentation_1.png) | ![Slide 2](AnatomyPng/Presentation_2.png) |
 | *Постановка задачи* | *Теоретическая база* |
 
 | | |
 |:---:|:---:|
-| ![Slide 3](Presentation_3.png) | ![Slide 4](Presentation_4.png) |
+| ![Slide 3](AnatomyPng/Presentation_3.png) | ![Slide 4](AnatomyPng/Presentation_4.png) |
 | *Архитектура FAIRY+YOUKAI* | *Обучение в реальном времени* |
 
 | | |
 |:---:|:---:|
-| ![Slide 5](Presentation_5.png) | ![Slide 6](Presentation_6.png) |
+| ![Slide 5](AnatomyPng/Presentation_5.png) | ![Slide 6](AnatomyPng/Presentation_6.png) |
 | *Графический интерфейс* | *AnomalyEngine* |
 
 | | |
 |:---:|:---:|
-| ![Slide 7](Presentation_7.png) | ![Slide 8](Presentation_8.png) |
+| ![Slide 7](AnatomyPng/Presentation_7.png) | ![Slide 8](AnatomyPng/Presentation_8.png) |
 | *Результаты апробации* | *Выводы и перспективы* |
 
 </div>
